@@ -1,0 +1,8 @@
+[
+  "tutorials/tests.py::test_compare_tutorials",
+  "tutorials/tests.py::test_create_tutorial",
+  "tutorials/tests.py::test_homepage_access",
+  "tutorials/tests.py::test_search_tutorials",
+  "tutorials/tests.py::test_update_tutorial",
+  "users/tests.py::test_login_user"
+]
